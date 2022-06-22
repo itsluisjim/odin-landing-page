@@ -112,3 +112,27 @@ button:hover {
     text-align: center;
     color: #1f2937;
 }
+.section-three {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+}
+.quote-container {
+    padding: 150px 300px;
+    display: flex;
+    flex-direction: column;
+}
+.inspo-quote , .quotedBy {
+    color: #1F2937
+}
+.inspo-quote {
+    font-style: italic;
+    margin: 0;
+}
+.quotedBy {
+    font-weight: bold;
+    align-self: flex-end;
+    margin: 0 50px 0 0;
+}
