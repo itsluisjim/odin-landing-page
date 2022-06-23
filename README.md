@@ -5,7 +5,7 @@ It is divided in 5 sections, the hero , the card section, the quote section, the
 
 The theme of this webpage is star wars.
 
-It took me about a week to finish this, it was tough at times but definely getting better by the minute.
+It took me about a week to finish this, it was tough at times but definitely getting better by the minute.
 
 I hope you like it! 
 
