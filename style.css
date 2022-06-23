@@ -119,12 +119,13 @@ button:hover {
     justify-content: center;
     align-items: center;
     font-size: 36px;
-    padding: 150px 0;
+    padding: 150px 30px
 }
 .quote-container {
     display: flex;
     flex-direction: column;
     width: 800px;
+    gap: 20px
 }
 .inspo-quote , .quotedBy {
     color: #1F2937
@@ -136,7 +137,7 @@ button:hover {
 .quotedBy {
     font-weight: bold;
     align-self: flex-end;
-    margin: 0 50px 0 0;
+    margin: 0;
 }
 .callToAction-container {
     display: flex;
