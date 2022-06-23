@@ -17,6 +17,14 @@ body {
     align-items: center;
     justify-content: space-around;
 }
+.brand-logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+#lightsaber-icon{
+    max-width: 150px;
+}
 .hero h1 {
     font-size: 24px;
     margin-left: 40px;
