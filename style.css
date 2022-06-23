@@ -136,3 +136,32 @@ button:hover {
     align-self: flex-end;
     margin: 0 50px 0 0;
 }
+.callToAction-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 100px 100px;
+}
+.callToAction-card {
+    background-color: #3882F6;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:  30px 100px;
+    gap: 50px;
+}
+.callToAction-content {
+    display: flex;
+    flex-direction: column;
+}
+.callToAction-content h3 , .callToAction-content p {
+    margin: 0;
+}
+.callToAction-content p {
+    font-size: 16px;
+}
+#button2 {
+    border: 2px solid white;
+    font-weight: bold;
+}
